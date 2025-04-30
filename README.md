@@ -128,3 +128,29 @@ on *D*.
 ---
 
 People that contributed to this write-up before it was moved to Github included Nic McPhee, Vincent Borchardt, and John McCall.
+
+### Screenshots of the work with circuits
+
+2-1 Multiplexer
+IMG_5999.jpg
+
+1-bit half Adder
+IMG_6001.jpg
+
+1-bit Full Adder
+IMG_6002.jpg
+
+SR NOR Latch
+IMG_6003.jpg
+
+4-1 Multiplexer
+IMG_6004.jpg
+
+2-bit Full Adder
+IMG_6005.jpg
+
+4-bit Full Adder
+IMG_6006.jpg
+
+Gated D Lacth
+IMG_6007.jpg
